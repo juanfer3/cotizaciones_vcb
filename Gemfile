@@ -51,3 +51,13 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
+
+gem 'best_in_place'
+
+# layout rails
+gem 'rails_layout'
+
+gem 'colorize'
+
+#simple form
+gem 'simple_form'
